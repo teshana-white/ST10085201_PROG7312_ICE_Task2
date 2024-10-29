@@ -1,0 +1,14 @@
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\bin\Debug\net8.0\ICE_Task2_LinkedLists.exe
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\bin\Debug\net8.0\ICE_Task2_LinkedLists.deps.json
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\bin\Debug\net8.0\ICE_Task2_LinkedLists.runtimeconfig.json
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\bin\Debug\net8.0\ICE_Task2_LinkedLists.dll
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\bin\Debug\net8.0\ICE_Task2_LinkedLists.pdb
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\ICE_Task2_LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\ICE_Task2_LinkedLists.AssemblyInfoInputs.cache
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\ICE_Task2_LinkedLists.AssemblyInfo.cs
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\ICE_Task2_LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\ICE_Task2_LinkedLists.dll
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\refint\ICE_Task2_LinkedLists.dll
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\ICE_Task2_LinkedLists.pdb
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\ICE_Task2_LinkedLists.genruntimeconfig.cache
+C:\Users\Yagi\source\repos\ICE_Task2_LinkedLists\obj\Debug\net8.0\ref\ICE_Task2_LinkedLists.dll
